@@ -1,0 +1,12 @@
+train: dataset/images/train
+val: dataset/images/val
+
+nc: 35
+
+names:
+  ["tree","bonsai shrub","yellow flower","bird","car","humans","building",
+   "road","sky","divider","shoes","palm tree","bonsai","rock wall","leaf",
+   "fire hydrant","white flower","pink flower","pink-red flower","plant-pot",
+   "dustbin","bamboo","electric box","bike","grass","orange flower",
+   "spineless yucca","yellow-white flower","yellow-orange flower","jet",
+   "pic-in-pic","small shrub","upes museum","big tree","ground"]

@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local editor and assistant folders
+.vscode/
+.agents/
+
+# Runtime/cache files created during validation or plotting
+.matplotlib/
+*.cache
+
+# YOLO training and prediction outputs
+runs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
