@@ -1,6 +1,8 @@
 # YOLO Object Detection Project
-Made By : Rahul Kumawat , 
-CODTECH-INTERN ID : CTTS094
+CODTECH-INTERN ID: CTTS094
+Name: Rahul Kumawat
+Project Name: YOLO Object Detection Project
+Project Scope: This project focuses on training a YOLOv8 object detection model on a custom campus image dataset and testing it on validation images.
 
 
 This is my object detection project using YOLOv8. I made this project to train a custom model on images collected around the campus area and detect different objects like trees, flowers, cars, humans, buildings, roads, and some other outdoor objects.
