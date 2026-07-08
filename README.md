@@ -1,6 +1,7 @@
 # YOLO Object Detection Project
-
+Made By : Rahul Kumawat
 CODTECH-INTERN ID : CTTS094
+
 
 This is my object detection project using YOLOv8. I made this project to train a custom model on images collected around the campus area and detect different objects like trees, flowers, cars, humans, buildings, roads, and some other outdoor objects.
 
