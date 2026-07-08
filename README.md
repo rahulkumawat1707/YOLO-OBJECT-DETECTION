@@ -1,7 +1,7 @@
 # YOLO Object Detection Project
-CODTECH-INTERN ID: CTTS094
-Name: Rahul Kumawat
-Project Name: YOLO Object Detection Project
+CODTECH-INTERN ID: CTTS094 , 
+Name: Rahul Kumawat , 
+Project Name: YOLO Object Detection Project , 
 Project Scope: This project focuses on training a YOLOv8 object detection model on a custom campus image dataset and testing it on validation images.
 
 
